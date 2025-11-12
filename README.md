@@ -69,6 +69,8 @@ npm run build
 
 ### 8. Jalankan Aplikasi
 
+<img width="1408" height="582" alt="image" src="https://github.com/user-attachments/assets/ccbd0dd4-c2da-47de-a557-ebb3fa62444d" />
+
 #### Menggunakan Laravel built-in server
 php artisan serve
 Untuk menjalankan web server
@@ -98,17 +100,30 @@ php artisan make:filament-resource News --generate
 
 php artisan make:filament-resource Komentar --generate
 
-<img width="1408" height="582" alt="image" src="https://github.com/user-attachments/assets/ccbd0dd4-c2da-47de-a557-ebb3fa62444d" />
+<img width="1291" height="92" alt="Screenshot 2025-11-12 133627" src="https://github.com/user-attachments/assets/8cb8a959-0f25-444a-84fb-4b4a572a92e8" />
 
-### Menambahkan Detail Page Berita
+### Optimize Clear untuk membersihkan cache files
+php artisan optimize:clear
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/356bf74d-52c3-4232-a32c-e7ec831f4ade" />
+<img width="1275" height="271" alt="Screenshot 2025-11-12 133557" src="https://github.com/user-attachments/assets/678ac23e-36b0-4c1d-b137-d76688cbed60" />
 
-### Hasil Halaman Daftar Berita
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/16572580-ad5e-485b-8ccc-0dd47648f3e4" />
+### Halaman Login
 
-### Hasil Halaman Detail Berita
+<img width="1904" height="916" alt="image" src="https://github.com/user-attachments/assets/cacb269c-7ce6-4616-8b0c-15ffbc9d4ec4" />
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f49d22a7-c123-4363-ad4f-49c7115f5f76" />
+### Halaman Dashboard News App
 
+<img width="1917" height="966" alt="image" src="https://github.com/user-attachments/assets/4ed1608b-fbba-4849-a673-840a6a2f5ce3" />
+
+### Halaman Wartawan
+
+<img width="1915" height="933" alt="image" src="https://github.com/user-attachments/assets/6e219241-eea3-49db-bec4-610c205c7fe7" />
+
+### Halaman News
+
+<img width="1919" height="925" alt="image" src="https://github.com/user-attachments/assets/db6b2c72-b848-4d87-a0f4-9e9159524313" />
+
+### Halaman Komentar
+
+<img width="1911" height="901" alt="image" src="https://github.com/user-attachments/assets/7259db53-f9ac-41bf-a8c9-4ca928c05f60" />
